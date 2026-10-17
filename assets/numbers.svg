@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="10 public projects, 58,139 customers in the final project cohort, 240,887 app events analysed, 83.0% of churners found by the model.">
+  <style>
+    .bg { fill: #0d1210; }
+    .tile { fill: #121a16; stroke: #26352d; stroke-width: 1.5; }
+    .v { fill: #e8efea; font: 700 40px 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .k { fill: #7f9188; font: 400 14px 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .u { fill: #4cc38a; transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1.1s cubic-bezier(.2,.7,.2,1) forwards; }
+    .g { opacity: 0; animation: up .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes grow { to { transform: scaleX(1); } }
+  </style>
+  <rect class="bg" width="1200" height="170"/>
+  <g class="g" style="animation-delay:.1s">
+    <rect class="tile" x="30" y="25" width="270" height="120" rx="10"/>
+    <text class="v" x="54" y="86">10</text><text class="k" x="54" y="114">public end-to-end projects</text>
+    <rect class="u" x="54" y="126" width="120" height="3" style="animation-delay:.6s"/>
+  </g>
+  <g class="g" style="animation-delay:.3s">
+    <rect class="tile" x="320" y="25" width="270" height="120" rx="10"/>
+    <text class="v" x="344" y="86">58,139</text><text class="k" x="344" y="114">customers in the final-project cohort</text>
+    <rect class="u" x="344" y="126" width="120" height="3" style="animation-delay:.8s"/>
+  </g>
+  <g class="g" style="animation-delay:.5s">
+    <rect class="tile" x="610" y="25" width="270" height="120" rx="10"/>
+    <text class="v" x="634" y="86">240,887</text><text class="k" x="634" y="114">app events read in a funnel study</text>
+    <rect class="u" x="634" y="126" width="120" height="3" style="animation-delay:1s"/>
+  </g>
+  <g class="g" style="animation-delay:.7s">
+    <rect class="tile" x="900" y="25" width="270" height="120" rx="10"/>
+    <text class="v" x="924" y="86">83.0%</text><text class="k" x="924" y="114">of churners found by my model</text>
+    <rect class="u" x="924" y="126" width="120" height="3" style="animation-delay:1.2s"/>
+  </g>
+</svg>

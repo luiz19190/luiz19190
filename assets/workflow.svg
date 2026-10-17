@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="How I work: business question, data, SQL and Python, statistical test, dashboard, decision.">
+  <style>
+    .bg { fill: #0d1210; }
+    .box { fill: #121a16; stroke: #26352d; stroke-width: 1.5; }
+    .on { animation: glow 9s ease-in-out infinite; }
+    .t { fill: #e8efea; font: 600 17px 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .s { fill: #7f9188; font: 400 13px Consolas, 'Courier New', monospace; }
+    .n { fill: #4cc38a; font: 600 13px Consolas, 'Courier New', monospace; }
+    .wire { stroke: #26352d; stroke-width: 2; fill: none; }
+    .pkt { fill: #4cc38a; }
+    @keyframes glow { 0%, 12%, 100% { stroke: #26352d; } 4%, 8% { stroke: #4cc38a; } }
+  </style>
+  <rect class="bg" width="1200" height="190"/>
+
+  <g>
+    <rect class="box on" x="30" y="45" width="170" height="100" rx="10" style="animation-delay:0s"/>
+    <text class="n" x="48" y="72">01</text><text class="t" x="48" y="100">Question</text><text class="s" x="48" y="124">what decides it?</text>
+  </g>
+  <g>
+    <rect class="box on" x="225" y="45" width="170" height="100" rx="10" style="animation-delay:1.5s"/>
+    <text class="n" x="243" y="72">02</text><text class="t" x="243" y="100">Data</text><text class="s" x="243" y="124">clean · join · check</text>
+  </g>
+  <g>
+    <rect class="box on" x="420" y="45" width="170" height="100" rx="10" style="animation-delay:3s"/>
+    <text class="n" x="438" y="72">03</text><text class="t" x="438" y="100">SQL + Python</text><text class="s" x="438" y="124">cohorts · funnels</text>
+  </g>
+  <g>
+    <rect class="box on" x="615" y="45" width="170" height="100" rx="10" style="animation-delay:4.5s"/>
+    <text class="n" x="633" y="72">04</text><text class="t" x="633" y="100">Test</text><text class="s" x="633" y="124">p · power · Holm</text>
+  </g>
+  <g>
+    <rect class="box on" x="810" y="45" width="170" height="100" rx="10" style="animation-delay:6s"/>
+    <text class="n" x="828" y="72">05</text><text class="t" x="828" y="100">Dashboard</text><text class="s" x="828" y="124">Tableau · Streamlit</text>
+  </g>
+  <g>
+    <rect class="box on" x="1005" y="45" width="170" height="100" rx="10" style="animation-delay:7.5s"/>
+    <text class="n" x="1023" y="72">06</text><text class="t" x="1023" y="100">Decision</text><text class="s" x="1023" y="124">what to do next</text>
+  </g>
+
+  <circle class="pkt" r="5">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M40 166 H1160"/>
+  </circle>
+  <circle class="pkt" r="3" opacity=".5">
+    <animateMotion dur="9s" begin="-.25s" repeatCount="indefinite" path="M40 166 H1160"/>
+  </circle>
+  <path class="wire" d="M40 166 H1160" stroke-dasharray="2 8"/>
+</svg>
