@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Luiz Trajano, Data Analyst. Numbers that hold up.">
+  <rect width="1200" height="300" fill="#0d1210"/>
+  <g stroke="#1b2621" stroke-width="1">
+    <path d="M0 75H1200M0 150H1200M0 225H1200"/>
+    <path d="M150 0V300M300 0V300M450 0V300M600 0V300M750 0V300M900 0V300M1050 0V300"/>
+  </g>
+  <text x="64" y="92" fill="#4cc38a" font-family="Consolas, 'Courier New', monospace" font-size="18" letter-spacing="4">DATA ANALYST · ANALISTA DE DADOS</text>
+  <text x="62" y="168" fill="#e8efea" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700">Luiz Trajano</text>
+  <text x="64" y="214" fill="#9fb0a7" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26">Numbers that hold up. SQL · Python · Tableau · A/B testing</text>
+  <text x="64" y="258" fill="#5f7068" font-family="Consolas, 'Courier New', monospace" font-size="16">Porto, Portugal · luiz-data.com</text>
+  <g fill="#4cc38a">
+    <rect x="890" y="214" width="22" height="36" opacity=".25"/>
+    <rect x="922" y="200" width="22" height="50" opacity=".3"/>
+    <rect x="954" y="208" width="22" height="42" opacity=".35"/>
+    <rect x="986" y="186" width="22" height="64" opacity=".45"/>
+    <rect x="1018" y="170" width="22" height="80" opacity=".6"/>
+    <rect x="1050" y="140" width="22" height="110" opacity=".8"/>
+    <rect x="1082" y="110" width="22" height="140"/>
+  </g>
+</svg>
