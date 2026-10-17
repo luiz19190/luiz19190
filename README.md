@@ -101,10 +101,7 @@ I turn raw data into decisions. In my final project I asked why only **2.01%** o
   <img src="https://streak-stats.demolab.com?user=luiz19190&hide_border=true&theme=transparent&ring=4cc38a&fire=4cc38a&currStreakLabel=4cc38a&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak">
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=luiz19190&hide_border=true&bg_color=00000000&color=8b949e&line=4cc38a&point=4cc38a&area=true&area_color=4cc38a&title_color=4cc38a" alt="Activity graph">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luiz19190&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies">
+  <img width="100%" src="https://ghchart.rshah.org/4cc38a/luiz19190" alt="Contribution chart">
 </p>
 
 <picture>
